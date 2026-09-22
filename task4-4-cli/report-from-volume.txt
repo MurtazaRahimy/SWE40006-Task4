@@ -1,0 +1,7 @@
+Total words: 49
+Top 5 words:
+  it: 3
+  package: 3
+  all: 3
+  to: 2
+  an: 2

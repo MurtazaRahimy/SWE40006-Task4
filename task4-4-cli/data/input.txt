@@ -1,0 +1,1 @@
+Docker makes it easy to package an application with all of its dependencies into a standardized unit for software development. Containers allow developers to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
